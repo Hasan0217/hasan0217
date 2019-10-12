@@ -1,0 +1,25 @@
+.img1{max-width: 100px;
+	height: auto;
+}
+
+nav{
+	color: rgb(1000);
+}
+footer{
+	color: yellow;
+	background: lightblue;
+}
+body{
+	background-color: lightblue;
+}
+.img2{max-width: 100px;
+	height: auto;
+}
+input{border-color: red
+
+}
+.img3{max-width: 100px;
+		height: auto;
+}<div class="alert alert-success" role="alert">
+	<strong>Well done!</strong> You successfully read this important alert message.
+</div>
